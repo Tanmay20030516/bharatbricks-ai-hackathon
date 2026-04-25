@@ -1,0 +1,21 @@
+,Train_id,Train_name,Train_no,Source,Destitnation,Date,Distance(Km),Sc_arr__time,Act_arr_time,Dealy_min,Season,Run_frequency,Total_Delay_Minutes
+0,E1,Begampura Express,12238,Varanasi,Jammu,01-01-2016 00:00,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,75.0
+1,E2,Begampura Express,12238,Varanasi,Jammu,01-01-2017 00:00,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,20.0
+2,E3,Begampura Express,12238,Varanasi,Jammu,01-01-2018 00:00,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,90.0
+3,E4,Begampura Express,12238,Varanasi,Jammu,01-01-2019 00:00,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,10.0
+4,E5,Begampura Express,12238,Varanasi,Jammu,01-01-2020 00:00,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,30.0
+5,E6,Begampura Express,12238,Varanasi,Jammu,07-01-2021 00:00,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,5.0
+6,E7,Begampura Express,12238,Varanasi,Jammu,01-01-2022 00:00,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,40.0
+7,E8,Begampura Express,12238,Varanasi,Jammu,01-01-2023 00:00,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,90.0
+8,E9,Begampura Express,12238,Varanasi,Jammu,01-01-2024 00:00,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,15.0
+9,E10,Begampura Express,12238,Varanasi,Jammu,01-01-2025 00:00,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,50.0
+10,G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,02-01-2016 00:00,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,80.0
+11,G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,07-01-2017 00:00,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,45.0
+12,G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,06-01-2018 00:00,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,30.0
+13,G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,05-01-2019 00:00,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,10.0
+14,G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,04-01-2020 00:00,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,20.0
+15,G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,02-01-2021 00:00,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,10.0
+16,G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,01-01-2022 00:00,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,120.0
+17,G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,07-01-2023 00:00,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,60.0
+18,G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,06-01-2024 00:00,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,35.0
+19,G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,04-01-2025 00:00,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,75.0

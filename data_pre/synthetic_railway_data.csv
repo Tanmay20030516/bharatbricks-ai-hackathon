@@ -1,0 +1,1001 @@
+Train_id,Train_name,Train_no,Source,Destitnation,Date,Distance(Km),Sc_arr__time,Act_arr_time,Dealy_min,Season,Run_frequency,Total_Delay_Minutes
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-04,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,72.94161107895245
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-29,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,22.360582228802475
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-09,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,70.58655844329436
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-26,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,32.74543414740217
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-23,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,34.08448649909869
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-24,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-04,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,34.38983401817918
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-06,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,94.65556327878751
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-27,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,23.8637491185487
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-30,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,68.80706510725278
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-23,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,77.025258400933
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-27,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,41.22442170739282
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-29,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,4.4256308645758615
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-04,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,24.368245565505784
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-24,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,23.253097939198526
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,49.15980295635554
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-09,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,130.14497529950103
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-22,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,77.98236955482855
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-25,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,40.92329084384241
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-09,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,118.53050793287234
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-22,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,104.44699236952398
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-26,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,25.84038805127265
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,92.93604500015648
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-04,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,21.454096844817336
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-05,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,33.105434527341075
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-02,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,4.111738401298326
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-06,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,34.27248669199469
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,100.04494439732999
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-27,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-01,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,70.10929449572339
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-08,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,94.01144514660795
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-04,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,61.835365310649635
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-03,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,26.09061925771367
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,3.5482824767925267
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-08,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,42.002282354238105
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,16.63519096034809
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-10,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,106.29214836935125
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-10,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,95.50690600287359
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-24,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,62.86188934037952
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-26,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,66.69443928313218
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-10,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,49.910167823670406
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-28,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,13.50178969896303
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-26,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,72.19066169843174
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-05,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-08,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,45.91327912439058
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-03,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,3.590115819166094
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,29.681382663592434
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-07,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,92.18299529886372
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-23,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,29.50395050913446
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-24,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,69.68366801615832
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-05,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,87.9587128830981
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-26,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,38.040116649217396
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-01,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,7.50993562339476
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,3.4362426025552555
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-10,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,22.649003206148695
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-03,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-01,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,136.4745756433724
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-29,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,64.47397986678065
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-31,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,36.746817557011454
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-25,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,75.5545785984999
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-22,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,86.92122230653983
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-27,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,20.790525393239385
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,71.68520503629622
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-25,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,10.247662007912758
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-24,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,28.759669763210173
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-26,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-01,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,8.721546790646148
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-09,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,94.2483031792761
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,12.23306376246591
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-02,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,39.15559814665935
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-09,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,90.38708757890824
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-07,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,57.266611497458975
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-29,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,36.17299193310278
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,2.9245313631725747
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-26,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,5.306591664455732
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,28.9128166007909
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-08,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,114.76592349593496
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-10,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,75.94179575102702
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-07,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,35.79923810905611
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-30,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,41.80797930519465
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-24,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,66.71496044599573
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-02,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,23.54520282235476
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-30,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,118.3029163663382
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-31,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,18.460741165535367
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-09,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,25.005076369920527
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-07,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,14.329745387633327
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-04,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,44.10041067671643
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,73.82093664698102
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-25,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,19.079151759811143
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-06,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,38.42699585331479
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-08,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,80.69701192804183
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-22,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,46.8205823423679
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-05,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,30.96649895256657
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-03,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,3.4645207581901873
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-31,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,26.223202567217403
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-10,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-25,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,122.8534404255729
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-07,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,67.54896492716072
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-30,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,36.51215632573588
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-23,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,59.95657848441706
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-24,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,91.60512468500787
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-26,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,2.96792157560985
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-27,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,74.90886549366687
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-23,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-23,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,38.708872220356966
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-30,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,14.235357034443764
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-25,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,56.526997289834696
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,87.7010152361794
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-27,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,40.741018656722545
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-04,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,44.40915960953484
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-01,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,93.36985720860909
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-05,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,51.06077707564518
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,50.522660604926074
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-31,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,46.18146172449542
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,12.906433535507851
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-08,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,109.28050688504244
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-21,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,74.52198914258783
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-06,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,29.35872043798992
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-23,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,64.9541587781954
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-31,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,95.18509776279846
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-05,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,1.9100574817510108
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-30,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,72.86671158709026
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-27,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,48.77410286579366
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-10,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,40.12553458562486
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-09,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-01,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,39.69149512959666
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-22,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,94.65786047901892
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-28,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,20.288738245097743
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-08,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,42.96101475797311
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-01,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,120.43326833337974
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-29,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,30.170831633556354
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-24,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,43.36892657971014
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-26,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,34.60812935344063
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-27,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,7.524790497982151
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-03,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-30,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,126.95802722724262
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-09,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,61.74761457391843
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-06,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,16.101260379079857
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-31,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,48.382651089538946
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-10,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,62.59356122844325
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-09,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,9.124387511673063
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-07,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,97.84846499623934
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-01,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,11.251044223998742
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-22,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,30.828612371293204
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-26,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.08521028630911776
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-27,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,31.263150866906738
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-25,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,89.28704777070169
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-07,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,20.272677926252307
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-25,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,42.63451763376723
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-08,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,101.87058086827925
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-08,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,51.050639604243294
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,28.48141379735499
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,15.001822773053451
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-06,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,14.311598980472175
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-10,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,113.06056595463956
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-30,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,38.7576811206869
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-22,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,21.217969653174983
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-24,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,100.98745457249152
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-07,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,68.10724744141649
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-27,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,21.162516042825818
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,90.05544558155255
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-24,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,24.20920942968165
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-23,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,5.541449840158357
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-28,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-06,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,38.748159473183485
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-31,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,108.34042806449138
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-24,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,20.749606235162396
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-06,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,60.893665101705636
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-28,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,89.16356660894252
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-28,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,26.584785163314006
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-23,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,23.69968932521325
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,13.868085990769359
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-10,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,21.369125446487647
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,4.309199729722177
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-29,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,89.96375670186421
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-03,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,59.200918658609496
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-04,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,29.659003838752252
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-08,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,67.23904732248118
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-09,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,86.44565018843369
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-06,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,2.2938245501821655
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-07,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,90.29818508297078
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-30,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-09,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,37.95683513372756
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-25,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,6.445765693322578
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-29,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,13.33003552443893
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,104.10151697472105
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-26,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,34.26250049590632
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-01,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,38.226290192994085
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-05,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,74.33565187535741
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-28,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,53.76408293173983
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-01,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,0.0
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-01,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-26,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,48.16102809479777
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,15.457608783028647
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-26,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,126.31345935523026
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-06,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,39.713821360286374
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-24,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,6.756837548336939
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-10,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,63.84028443701551
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-02,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,87.51005336969496
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-27,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,3.155145384516441
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,88.97252347768632
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-01,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,14.802924951241515
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-29,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,37.08954625681132
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-08,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,12.88320536284956
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-24,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,47.52213496401137
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-10,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,110.08259229691339
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-28,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,10.57145517917563
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-23,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,21.668302277441725
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-22,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,77.86325109532967
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-30,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,36.47919481934488
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-31,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,31.784172734970827
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-10,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,12.625664286738594
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-04,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,29.77199541625404
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-04,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,26.210996052546488
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-26,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,133.81858773690303
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-26,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,51.915949489013464
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-06,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,58.196122892487466
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-03,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,82.89320675595404
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-04,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,52.72705983917142
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-05,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,0.0
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-30,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,105.99804615699526
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-22,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,7.733235880018423
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-06,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,69.09835588742797
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-09,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.3619479305079727
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-08,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,58.350900415841885
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,107.6943523387655
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-05,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-09,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,42.91106104242426
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-31,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,92.85399717727125
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-24,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,44.277072006161404
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-22,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,31.584244382230278
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,5.120902270528156
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-04,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,15.747945546910572
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-10,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,7.03591172923603
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-02,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,87.47862841450964
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-10,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,65.07435850809061
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-26,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,27.65520545826868
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-22,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,60.88305720694697
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-03,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,85.75301844428277
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-03,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,26.572535994136746
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-31,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,65.93323244709592
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-22,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,19.893351002157736
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-03,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,30.758499601152405
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-21,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-10,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,25.302773107145143
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-02,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,90.4499555164791
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-05,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,6.469518536615366
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-05,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,34.040767118454795
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-09,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,71.55903995459644
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-26,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,56.14883555575348
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-25,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,63.061529886581134
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-07,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,11.030227879436625
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-26,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,0.0
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-28,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,20.192167342084893
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-03,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,104.86627552347392
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-22,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,93.02450191607537
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-08,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,46.68351274482744
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-28,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,75.87546962625098
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-02,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,85.94438288743933
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-04,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,8.218906982282647
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-08,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,84.15331288438436
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-02,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-26,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,5.673396795908197
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-05,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,38.18224331580983
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-04,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,66.72073661743984
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-26,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,32.02608086994762
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-27,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,66.09579055980548
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-01,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,96.979235933386
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-25,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,35.898094725684416
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,0.0
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,9.664101091249362
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-05,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,41.511710998058255
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-09,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-07,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,142.25924686188364
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-22,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,43.6857570827424
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-24,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,42.51472453916863
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-23,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,67.70603562219023
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-30,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,61.941538715501125
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-08,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,5.106431197704836
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-01,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,104.29421670378073
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-23,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,22.364013227941754
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-31,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,42.1358580684356
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-22,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,11.773924396493783
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,30.479032800529776
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-05,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,104.44298762132773
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-27,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,8.006828606017603
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-07,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,21.57440840532438
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-08,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,97.0670633559116
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-10,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,61.10008716379945
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-08,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,47.136022397289594
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,23.420421500947775
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-06,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,27.197740688226826
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-07,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-04,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,133.1147044687044
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-29,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,82.56127017567067
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-29,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,12.534242526593854
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-25,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,86.05708547088418
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-07,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,77.63239701215109
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-09,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,13.901826102300904
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-29,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,82.97745251921182
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-31,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,21.25218063902265
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-10,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,70.03688518592497
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-08,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,28.2569848243362
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-27,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,44.18369056040737
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-27,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,102.67043489396397
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-30,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,13.142491956668772
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-04,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,76.90623944457137
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-30,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,63.502493120051824
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-04,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,33.10899341707863
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-04,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,25.619763640545827
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,25.298220084061647
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-01,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,0.0
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-09,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,8.60384429620234
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-07,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,97.53857007755099
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-27,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,47.264269251724315
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,43.49472665459061
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-31,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,78.1365442548269
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-28,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,78.93187224420964
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-22,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,27.47567481245644
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-08,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,73.21480184142052
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-01,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,11.185833215040073
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-23,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,39.20962141872819
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-10,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-22,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,40.927088878850014
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-22,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,102.30527010863648
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,30.26564383532223
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-05,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,66.28896135610485
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-25,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,74.3136486989547
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-22,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,46.08723152279641
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-07,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,24.825404279199066
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-01,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,5.955389990781727
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-27,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,25.39758976940381
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-05,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,142.46976244611417
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-29,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,56.32951298424777
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,7.2322155911116255
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-05,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,61.40380008720157
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-22,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,89.50403199721791
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-09,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,39.01659314928391
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-22,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,121.2733917163171
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-10,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-10,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,12.972620921452972
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-30,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,5.416220794348261
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-27,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,48.81386132092864
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,74.62308963350674
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-02,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-03,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,51.45175267736306
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-02,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,104.14251810110153
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-30,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,40.90141439586542
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-05,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,19.85631585088776
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,1.6529389128227017
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-06,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,15.565270567741937
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-06,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,107.47867249076228
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-06,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,45.34828720523663
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-07,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,19.804034943310533
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-25,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,79.84950926760723
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-26,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,101.14850144675859
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-30,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,42.092479110080774
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,72.78671053808033
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-05,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,21.901616926007
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-05,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,37.073628029405
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-01,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-31,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,34.30948323350493
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,88.39220133703836
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,23.105034669444073
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-29,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,32.49329861502649
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-22,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,75.8597828767671
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-01,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,67.19077025144215
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-06,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,34.365979325826856
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,15.841373128731956
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-07,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,16.084152056963305
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-04,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-27,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,96.17260611358846
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-04,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,68.4607659483949
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-28,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,50.93576976011762
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-07,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,68.9869359827849
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-31,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,67.95134838026394
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-29,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,26.7960247619109
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-07,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,87.68288924742816
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-07,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,11.2730782037077
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-06,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,16.041971141498696
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-03,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-30,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,42.7848616837196
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-08,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,122.89324321899815
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-25,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,7.136711458028881
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-24,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,77.38768273748339
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-05,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,69.88351482091323
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-07,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,24.97516449434584
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-02,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,34.63120494235186
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-02,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,24.532983435626715
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-05,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,36.54110968535896
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-02,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,129.23719601932098
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-26,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,71.90075523824586
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-27,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,27.726882795260916
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-04,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,70.86541919227481
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-06,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,72.28950236566048
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-01,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,41.33961166820199
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,79.99525839139247
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-28,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,24.736177418884953
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-28,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,7.474557093169423
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-25,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,15.386345067200248
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-03,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,34.6346250627461
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-09,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,72.61361010435218
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-30,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-23,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,58.414944223678084
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-09,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,77.81635899724361
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-03,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,55.07380904093714
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-26,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,47.41972521593206
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,6.85422394409581
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-01,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,29.878085362582567
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-27,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-09,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,136.0751956617054
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-29,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,56.59820845622823
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-06,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,33.561497130660136
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-25,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,84.87519360164038
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-06,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,74.29624082973355
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-24,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,3.1531467957457266
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-01,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,89.11978027261397
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-07,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,1.953939234633669
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-06,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,38.23302168671074
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-06,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,16.447474650212417
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-24,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,35.71360357904378
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-22,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,83.40321320379562
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-08,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,19.669351124942196
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-30,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,45.191300570911174
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-01,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,130.9210828539234
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-30,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,43.911349509008545
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-27,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,36.81494004020656
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-02,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,20.21742761968686
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-01,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-30,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,101.70809613833114
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-21,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,46.73036438965664
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-31,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,34.63640470299336
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-04,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,64.09641711825616
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-26,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,94.21907084320927
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-25,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,52.04368032208501
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-09,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,108.03822445089159
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-04,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,24.2089424722417
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-04,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,34.79056205205295
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-05,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-02,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,36.976833250814
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-05,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,95.7222521358244
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-06,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,6.3809401163131945
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-28,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,66.99834343028964
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-27,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,79.80337076358498
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-03,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,82.41699657310144
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-05,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,39.21254650995809
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-21,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,33.49804907438532
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-23,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,16.2857943069719
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,35.242622248525706
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-10,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,109.15382331607366
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-10,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,88.8063220628348
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,25.94054546946611
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-25,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,80.005504056375
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-07,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,90.6906483886402
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-25,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,9.557386421428593
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,115.59296485664055
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-03,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,19.187164319976837
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-04,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,37.52484281715033
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-28,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-28,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,53.437129280654865
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-30,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,108.22336487035065
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-05,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,2.1676666997113507
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-06,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,45.58527342746046
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-03,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,107.03655016656303
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-21,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,35.76601951400049
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,23.078399845527986
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,12.35179128072605
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-23,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,49.070703950826655
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-10,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,94.09274684732992
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-04,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,73.17050525478403
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-04,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,35.47797178145199
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-24,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,79.91571030631226
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-25,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,71.22784218123414
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-31,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,33.51215066238139
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-04,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,119.1879359793213
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-03,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,2.342715707873647
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-30,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,46.84711289866546
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-09,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,49.33982877757683
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-02,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,91.58705291007624
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-07,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,24.172150211145205
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-02,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,50.398618936021165
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-22,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,59.20437584893065
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-28,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,82.75326357059579
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-25,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,19.7621725446498
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,19.237546055799164
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-05,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,22.949249377026195
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-23,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,132.12504895324804
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-06,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,50.64949437001562
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-05,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,44.53680647924013
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-30,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,77.56982634019926
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-26,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,62.424879135983076
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-26,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,21.194663108173277
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,68.7756333867935
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-30,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,5.470055112855218
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-05,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,0.0
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-06,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-06,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,40.015703485462886
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-10,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,95.36734435759504
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-30,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,15.509321165461703
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-02,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,57.917536089962674
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-29,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,82.17683464699917
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-25,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,36.00162842153183
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-08,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,40.452616415208595
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-05,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,12.201143851949277
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-23,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,33.20682565031249
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,15.160351461349503
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-27,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,124.5482917394885
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-01,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,78.25619408003286
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,14.355012852235618
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-26,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,53.44235328488658
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-03,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,61.9078592533697
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-06,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,28.32358313528505
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,105.05313433840077
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-08,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,41.146057858682894
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-08,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,55.823496008684295
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-10,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,24.402100154427398
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-27,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,14.244324321648154
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-10,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,89.67580892782158
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-23,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,7.318097239797489
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-28,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,46.60840337237622
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-26,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,93.28974804041788
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-02,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,64.98153586014712
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-29,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,19.627854547440364
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-26,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,28.52486867990095
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-09,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,11.978992348252671
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,9.655494006471864
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-01,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,129.3931229604555
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-02,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,58.29952666083158
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-05,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,63.453133618837796
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-08,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,64.21923335767977
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-01,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,67.64875304336307
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-30,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,36.84274624885789
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,57.34908998297289
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-30,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-27,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,32.154633216426525
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-28,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-31,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,56.778340056236644
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-07,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,95.1863201796783
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-07,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,37.96702311820954
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-06,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,54.85360478391168
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-04,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,74.77208809705937
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-29,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,50.039057705934326
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-30,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,25.94373020848535
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,8.808761579679807
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-08,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,23.820205359658665
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-27,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,19.507520157712676
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-31,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,111.99024194189559
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-25,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,42.544859439868844
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-04,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,3.2679939115974754
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-29,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,77.61827172738747
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-31,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,92.33684756305863
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-24,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,12.707331537600428
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,88.31441663184405
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-09,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,8.400826440246073
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-04,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,17.66390827011518
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-25,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,6.817449222293429
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-31,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,23.485368536576495
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,91.16721710997693
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-23,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,51.64363780251125
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-08,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,90.68305484424309
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-03,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,0.0
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-03,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,7.192013472920486
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-09,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,7.093337589805085
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-09,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,34.62860261660855
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,16.753889795806536
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-26,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,136.3912979654016
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-29,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,46.795159180618136
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-09,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,7.76050061994626
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-28,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,99.09097168718378
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-05,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,66.78420512039897
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-10,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,6.9555261055120035
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-25,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,118.07567615506656
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-30,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,11.154674578486876
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-24,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,12.082329270228868
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-24,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-02,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,45.85815410820555
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-10,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,67.01950115565963
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,24.381596883984248
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-02,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,42.28942163065722
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-30,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,98.7542325025967
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-06,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,69.80590123050769
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,23.80859637561798
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-09,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,18.310526141241517
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-25,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,34.963054475399574
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,2.248324504747048
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-23,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,115.16432403487629
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-06,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,64.76779963075013
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-27,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,51.24498798975691
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-07,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,75.62906477779617
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-09,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,63.6177295570236
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-28,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,38.53824593581204
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-04,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,99.06260832808724
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-03,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,31.91218541014276
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-23,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,17.33407311772531
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-01,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,17.01159242413703
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-10,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,11.708016029068972
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,87.08278541186945
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-30,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,9.061668260087727
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-08,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,40.829476529360214
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-03,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,62.93410996975986
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-08,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,40.67272414945235
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-07,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,16.416806963050746
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,14.106948749110307
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-26,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,0.0
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-27,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,111.49365834880037
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-05,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,54.76468086919481
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-26,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,42.64516758183288
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-04,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,69.57872251509431
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-29,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,60.29061524601157
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-31,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,41.7704071567345
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-09,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,82.89675605858207
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-23,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-24,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,42.135886085347636
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-25,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-07,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,44.00591433476779
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-06,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,87.85098058110198
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,6.848229146442597
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-30,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,48.33205268050597
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-24,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,97.60098424258564
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-25,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,63.16780797531018
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-01,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,14.827909061512685
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-01,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,34.616807347912356
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-10,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,10.406333202661102
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,33.4019473662231
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-05,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,131.68139961057727
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-01,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,41.78608337233807
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-05,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,40.87445350988038
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-03,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,79.69261022511988
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-25,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,72.7403111497603
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-10,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,33.18757098985541
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-10,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,76.56248320389392
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-22,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,18.24895736167175
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-08,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,26.136828879744854
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-06,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-07,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,40.50959694859959
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-02,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,88.31484242454731
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-22,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,1.5463115804934127
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-29,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,43.90609365859467
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-06,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,65.77827230434522
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-07,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,68.9001071056376
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-25,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,41.29659946874767
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,7.914683820606167
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-27,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,21.40740007727771
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,11.423192966340167
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-04,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,105.5250061611728
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-06,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,55.22353796094133
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-01,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,31.980749893039302
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-24,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,80.22094757792868
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-02,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,83.72299333246306
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-10,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,0.0
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-04,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,106.70057423599388
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-28,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,11.828096176262031
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-25,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,31.79247335515093
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-08,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,33.67383548040251
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-03,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,41.60754465595412
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,105.57822264203334
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-22,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,36.08486122337652
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-10,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,12.953843031288756
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-24,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,65.23843160579152
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-04,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,25.97621667520834
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,17.78521063044667
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-09,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,38.9316105655045
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-08,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,18.869335303636046
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-09,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,103.4435840698267
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-08,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,67.4801989913146
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-25,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,26.140062379689134
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-30,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,91.60696348667294
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-09,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,59.80762793505632
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-10,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,42.680187380346354
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-02,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,95.6249121289059
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-28,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-29,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,47.034896125158106
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-07,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,21.54848156312259
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-31,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,30.04472830279837
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,96.24974329744924
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-01,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,10.848303308059897
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-07,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,43.06845902017635
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-30,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,62.56574458339753
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-05,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,45.94753387067493
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-29,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,34.442165717662135
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,22.38077996557879
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-28,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,15.357428313969164
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-08,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,17.766637343945906
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-26,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,118.41742142206118
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-06,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,61.51203367835345
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-26,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,47.971807363386176
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-07,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,80.97970073499886
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-02,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,75.87053321788099
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-07,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,0.0
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-05,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,99.10770137700901
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-31,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-02,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,21.407829925946494
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-06,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,20.352748175580622
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-28,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,42.35407571037363
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-09,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,109.8938270033064
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-10,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,30.252052160251786
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-04,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,47.137742984761005
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-28,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,70.51247270998651
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-07,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,42.87717991318203
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-08,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,40.82032136088008
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-07,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-10,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,14.3169797702436
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-03,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,25.943748566567944
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-22,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,119.67791302085986
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-02,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,84.56209399887
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-04,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,56.49696552443705
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-03,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,56.115437686381725
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-02,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,94.90598313075488
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-31,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,0.0
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-08,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,105.57352010397128
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-05,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,9.197598226360926
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-26,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,56.01128974519891
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-09,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-02,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,14.202153474223206
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-27,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,84.02067954747966
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-26,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-09,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,36.97926226867079
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-09,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,82.12823619540276
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-03,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,41.64860512400842
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-27,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,57.33483168603462
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,16.580235934911236
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-25,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,41.29182258736053
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-27,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,21.47928113763139
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-29,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,107.44605395506484
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-29,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,61.63037063108156
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-06,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,27.62909047035261
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-05,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,54.37204001689743
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-01,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,83.32095674303582
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-28,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,22.68177475864688
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-27,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,86.22057829645787
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-01,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,19.91938239748341
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-10,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,0.0
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-28,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,14.624813321775756
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,44.421889874741275
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,89.16487661599851
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-26,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,29.18892806956991
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-27,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,64.8736606236069
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-02,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,65.1235145440876
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-25,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,49.091086987720345
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-02,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,35.97991431952564
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-10,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-24,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,33.81074320462337
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-08,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,108.21365128459942
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-28,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,74.60246131535952
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-26,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,41.146819993319
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-03,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,92.87643533973485
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-31,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,79.453072955919
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-08,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,28.714521639825527
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-25,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,76.82355217834805
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-04,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,9.78629330129079
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-06,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,0.0
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-27,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,20.829100894597588
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-08,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,58.67417480707037
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-24,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,77.84439233717103
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-08,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,16.752628850456276
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-23,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,17.743693001228024
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-03,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,101.04638481683428
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-26,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,48.67124326627789
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-06,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,25.884985617753777
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-21,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,24.688816156649775
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-04,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,0.0
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-23,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,13.881880949409783
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-27,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,107.91026618553978
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-22,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,58.16613935613122
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,30.995305205672807
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-04,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,70.09376010432689
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-28,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,47.49413385710004
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-02,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,7.802808426190994
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-02,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,67.29019174383572
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-27,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,4.415897617666944
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-08,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,40.28298934409045
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-06,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,12.823505517453821
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-03,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,28.92517362563065
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,95.59032336140469
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-06,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-29,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,68.06176676184359
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-07,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,53.48604951591072
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-27,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,54.121000395026925
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-22,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,31.79862459435867
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-26,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,17.796752708072027
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-03,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,33.06353473501636
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-01,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,117.91010671339666
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-03,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,52.43628975106071
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-04,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,39.62821595018958
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-30,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,48.66338678579219
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-28,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,105.69900289328731
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-29,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,17.050632972064673
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,92.95570236192168
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-23,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,13.544840321954347
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-10,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,26.61673970937434
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-22,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,11.777327791795162
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-29,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,32.30716389941949
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,110.83839216243544
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-30,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,4.513666823599447
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-06,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,75.75845196683525
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-29,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,85.27354020568465
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-26,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,39.35624440768877
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-03,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,30.921099670407994
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-08,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-04,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,18.39802315093574
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,10.343068698295289
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-24,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,107.30056872228133
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-30,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,64.84946447234465
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-29,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,62.00044861338141
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-04,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,66.78230143336069
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-08,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,92.13504989795683
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-06,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,23.194004595547753
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-25,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,69.51325672035746
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-25,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,12.605535244388792
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-09,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,61.755669275063994
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-05,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-01,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,24.652733373114735
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-07,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,97.04459807201441
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-26,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,11.413152259482814
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-09,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,46.18547381686212
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-02,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,105.51207761130567
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-30,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,37.848111001920365
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-28,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,55.173189768813316
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-31,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,38.63148791551062
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-09,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,7.81278931962143
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-02,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,120.82124723378924
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-01,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,40.24418012553023
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,43.91013506325762
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-28,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,78.79996870699536
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-09,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,71.03409486534197
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-03,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,10.618149813288698
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-27,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,99.75840882304094
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-01,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,9.670909296997797
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-31,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,29.673589555867164
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-23,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,34.87716073180175
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-31,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,27.086242262166266
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-05,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,59.07954402468695
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-02,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-24,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,38.18316219499054
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-01,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,58.687959061163426
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-05,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,40.56934302080335
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-10,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,32.643564841278916
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-24,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,10.497124450787435
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-25,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,0.0
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-01,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,119.42650158912402
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-08,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,39.135072687187595
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-24,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,54.94423971265407
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-23,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,78.09790728322524
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-31,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,80.34499719672104
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-27,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,32.34529800408258
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,82.69385059984283
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-05,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-27,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,22.99377708362935
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-22,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,33.92130547091524
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,81.2678629429692
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-31,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-30,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,47.63863980217252
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-22,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,80.42611499293069
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-10,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,71.42388028496566
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-04,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,41.30790486142958
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,14.781365950437714
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-09,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,32.597154997790604
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-24,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,14.365985902447669
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-07,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,108.9470574246997
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-22,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,19.172882069001794
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-10,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,40.17071547182807
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-30,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,89.87894135306377
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-08,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,85.40878434435173
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-27,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,38.269349444859515
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,100.33452469505654
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-27,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,32.180918814842485
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-27,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,45.40783296611122
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-07,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,7.16653862802928
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-26,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,71.2258805628417
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-29,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,128.09733559568048
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-29,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,28.158571781857525
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-27,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,58.7442647472247
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-07,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,87.89642854349766
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-27,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,25.19177320640604
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-24,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,8.081338474515217
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-04-30,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,26.02301796342647
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-02,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,10.945596561926664
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-29,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,34.605925059235396
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-29,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,120.51348730602002
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-22,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,57.331615946748684
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-07,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,33.574094516635036
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-30,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,106.50021973089454
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-07,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,63.71704080141044
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-05,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,10.357164339071684
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-25,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,83.90702561318906
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-22,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-04,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,23.602689355942307
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-22,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,7.053463828954026
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-23,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,45.56147976206633
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-29,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,106.8175564095146
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-05,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-03,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,65.72772264036219
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-27,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,98.8088170291058
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-10,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,37.2656132952338
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-31,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,29.66444206193253
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-08,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,15.413989354733694
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-29,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,31.585594006883802
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,18.55308248985924
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-23,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,116.12055217312776
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-23,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,78.86205415337278
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-08,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,51.37363180389522
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-29,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,76.36230518796359
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-02,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,69.21789700248382
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-25,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,14.679502993950912
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-22,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,82.52570471608144
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-26,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,12.428141163225522
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-02,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,31.72485612503033
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-30,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-23,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,57.309119020691924
+E8,Begampura Express,12238,Varanasi,Jammu,2023-01-10,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,78.40929021491623
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-23,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,11.683646827816222
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-26,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,48.829594946495526
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-26,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,80.21402232581642
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-29,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,40.199564127759785
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-29,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,28.033653104127982
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-10,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,10.7954619069207
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-07,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,33.90636661598754
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-31,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,13.448827056927783
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-07,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,128.04368514869563
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-05,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,62.53568066814288
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-24,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,29.27074207318495
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-03-31,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,59.7437218728249
+E1,Begampura Express,12238,Varanasi,Jammu,2016-01-09,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,78.5817834695161
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-06,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,15.813118445098747
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-03,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,100.70865180847915
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-08,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,1.4613630482774607
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-02,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,35.89223813265107
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-25,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,26.46421741362572
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-31,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,59.61215082650381
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-23,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,74.1634142247433
+E9,Begampura Express,12238,Varanasi,Jammu,2024-01-04,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,1.991112071992438
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-24,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,45.16294205187028
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-31,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,92.73160747125857
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-03,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,55.02131288679848
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-06-05,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,17.97356494474509
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-08,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,10.227760157137316
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-08,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,16.64676865077189
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-26,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,35.30523003766703
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-25,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,119.64015271821484
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-07-01,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,61.94043858331139
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-06-03,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,41.16694124890411
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-01,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,52.3155967948605
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-25,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,76.45122327790862
+E2,Begampura Express,12238,Varanasi,Jammu,2016-12-25,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,30.300656610649934
+E3,Begampura Express,12238,Varanasi,Jammu,2017-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,59.33501408436901
+E4,Begampura Express,12238,Varanasi,Jammu,2018-12-23,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,0.0
+E5,Begampura Express,12238,Varanasi,Jammu,2019-12-23,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,31.940111125661186
+E6,Begampura Express,12238,Varanasi,Jammu,2021-07-09,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,15.844618578388275
+E7,Begampura Express,12238,Varanasi,Jammu,2021-12-29,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,29.89574394953272
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-27,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,74.91529964915374
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-28,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,9.657815387701572
+E10,Begampura Express,12238,Varanasi,Jammu,2024-12-28,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,36.5180887767363
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-01-24,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,93.36471611216267
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-07-06,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,14.46413224177391
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-31,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,43.98768967279527
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-06,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,22.311737534745934
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-04-08,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,0.0
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-01-22,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,9.431654033693691
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-12-22,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,126.89974155277027
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-25,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,48.41950565506893
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-30,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,28.442120658624933
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-04,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,88.27253954414704
+E1,Begampura Express,12238,Varanasi,Jammu,2015-12-23,1260,06:30:00,07:45:00,01:15:00,Winter,Daliy,78.3168776197502
+E2,Begampura Express,12238,Varanasi,Jammu,2017-01-09,1260,06:30:00,06:50:00,00:20:00,Winter,Daliy,28.694210450080874
+E3,Begampura Express,12238,Varanasi,Jammu,2018-01-08,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,64.75871264947995
+E4,Begampura Express,12238,Varanasi,Jammu,2019-01-07,1260,06:30:00,06:40:00,00:10:00,Winter,Daliy,33.25338550244406
+E5,Begampura Express,12238,Varanasi,Jammu,2020-01-06,1260,06:30:00,07:00:00,00:30:00,Winter,Daliy,28.724753793490734
+E6,Begampura Express,12238,Varanasi,Jammu,2021-06-26,1260,06:30:00,06:35:00,00:05:00,Winter,Daliy,0.0
+E7,Begampura Express,12238,Varanasi,Jammu,2022-01-04,1260,06:30:00,07:10:00,00:40:00,Winter,Daliy,61.73997095256385
+E8,Begampura Express,12238,Varanasi,Jammu,2022-12-28,1260,06:30:00,08:00:00,01:30:00,Winter,Daliy,95.47022960780917
+E9,Begampura Express,12238,Varanasi,Jammu,2023-12-29,1260,06:30:00,06:45:00,00:15:00,Winter,Daliy,0.0
+E10,Begampura Express,12238,Varanasi,Jammu,2025-01-05,1260,06:30:00,07:20:00,00:50:00,Winter,Daliy,58.5036978601059
+G1,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2016-02-08,1754,10:00:00,11:20:00,01:20:00,Winter,Weekly,77.19384332346095
+G2,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2017-06-30,1754,10:00:00,10:45:00,00:45:00,Winter,Weekly,34.33275215694581
+G3,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2018-05-25,1754,10:00:00,10:30:00,00:30:00,Winter,Weekly,31.9711438270567
+G4,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2019-05-09,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,7.128077950733058
+G5,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2020-03-30,1754,10:00:00,10:20:00,00:20:00,Winter,Weekly,14.195831636927894
+G6,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2021-02-10,1754,10:00:00,10:10:00,00:10:00,Winter,Weekly,7.607694318959064
+G7,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2022-01-01,1754,10:00:00,12:00:00,02:00:00,Winter,Weekly,133.48899501205932
+G8,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2023-06-27,1754,10:00:00,11:00:00,01:00:00,Winter,Weekly,75.75802336543865
+G9,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2024-05-23,1754,10:00:00,10:35:00,00:35:00,Winter,Weekly,40.68300710888577
+G10,Gorakhpur-pune Weekly Express,15029,Gorakhpur,Pune,2025-04-03,1754,10:00:00,11:15:00,01:15:00,Winter,Weekly,73.9428093971524
