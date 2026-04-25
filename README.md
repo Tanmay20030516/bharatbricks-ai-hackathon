@@ -2,6 +2,9 @@
 
 **Yatri Sahayak predicts Indian train delays using Spark MLlib and automatically informs passengers of their legal entitlements under Railway General Rules — in English, Hindi, and Tamil.**
 
+**Demo Video Link:** https://drive.google.com/file/d/1wNht3LcGC6xDw475QsrrPrrmMQKelsEQ/view?usp=sharing  
+
+**How to Run:** Run the notebook sequentially. We have added the `bharatbricks@databricks.com` as a user to the workspace.
 ---
 
 ## Problem
